@@ -1,0 +1,25 @@
+CUSTOMER COMPLAINT - CUSTOMER PORTAL SUBMISSION
+
+Customer Name: Meridian Pharma Distributors Pvt. Ltd.
+Contact Person: Rajeev Nair
+Date of Complaint: 14-09-2026
+
+Product Name: Metformin Hydrochloride Extended-Release Tablets
+Product Strength/Grade: 500mg
+Batch/Lot Number: MET-ER-2025-1142
+Manufacturing Date: 03-02-2025
+Expiry Date: 02-02-2027
+Quantity Affected: 40 kg (approx. 8,000 tablets across 16 cartons)
+
+Complaint Description:
+During routine incoming inspection at our regional warehouse, our QC team observed small
+dark specks (suspected foreign particulate matter) embedded in approximately 3% of tablets
+sampled from carton batch MET-ER-2025-1142. The specks are irregular in shape and do not
+dissolve during a simple water solubility spot check. No other cartons from the same
+consignment were visibly affected during the initial sampling, but we have quarantined the
+entire batch pending your investigation. This is a serious concern given the extended-release
+formulation, and we request an urgent root cause investigation and CAPA response within 5
+working days, along with a formal complaint acknowledgment for our records.
+
+Reported By: Rajeev Nair, QC Manager, Meridian Pharma Distributors Pvt. Ltd.
+Complaint Source: Customer Portal
